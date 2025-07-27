@@ -6,7 +6,7 @@
 
 *📂 Highlights*
 - [EDA Team Win Probability Analysis](https://github.com/Priyodeep-Dutta2004/EDA_TeamWin_Analysis)
-- [Smart India Hackathon ML Model](#)
+- [Smart India Hackathon ML Model](https://github.com/Priyodeep-Dutta2004/Medicinal_Plant_Classifier_Image)
 
 *📫 Connect with me on [LinkedIn](https://linkedin.com/in/priyodeep-dutta-965b37325)*
 
